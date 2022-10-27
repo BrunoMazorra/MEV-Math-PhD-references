@@ -21,7 +21,7 @@
 ### Repeated games
 
 ## DeFi
--[State of Knowledge Defi](https://arxiv.org/abs/2101.08778)
+- [State of Knowledge Defi](https://arxiv.org/abs/2101.08778)
 
 ### CFMM
 
@@ -35,8 +35,23 @@ via Convex Optimization](https://arxiv.org/pdf/2107.12484.pdf): Formulate multi-
 ## Mathematics
 
 ### Convex analysis/optimization
-[Convex optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- [Convex optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 ### Markov Chains
 
+- [Markov chains and stochastic stability](http://probability.ca/MT/BOOK.pdf)
+
+### Others
+
+- [Introduction to smooth manifolds](https://math.berkeley.edu/~jchaidez/materials/reu/lee_smooth_manifolds.pdf)
+- [Handbook of Algebraic Topology](https://www.maths.ed.ac.uk/~v1ranick/papers/handbat.pdf)
+- [Elements of Information](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf)
+
+
+### Informal/Web3 protocols & Apps
+
+- [Ethereum]()
+- [Uniswap]()
+- [Flashbots]()
+- [Cow protocol]()
 
