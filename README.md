@@ -16,8 +16,7 @@
 ### Auction theory
 
 - [Auction theory](https://www.amazon.com/Auction-Theory-Vijay-Krishna/dp/0123745071)
-
-
+- [Bidding rings](https://www.jstor.org/stable/2117323#metadata_info_tab_contents)
 ### Repeated games
 
 ## DeFi
