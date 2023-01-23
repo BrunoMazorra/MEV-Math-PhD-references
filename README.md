@@ -45,7 +45,7 @@ via Convex Optimization](https://arxiv.org/pdf/2107.12484.pdf): Formulate multi-
 - [Introduction to smooth manifolds](https://math.berkeley.edu/~jchaidez/materials/reu/lee_smooth_manifolds.pdf)
 - [Handbook of Algebraic Topology](https://www.maths.ed.ac.uk/~v1ranick/papers/handbat.pdf)
 - [Elements of Information](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf)
-
+- [Course in Multi-agent RL](https://simons.berkeley.edu/workshops/multi-agent-reinforcement-learning-bandit-learning/videos#simons-tabs)
 
 ### Informal/Web3 protocols & Apps
 
